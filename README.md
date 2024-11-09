@@ -37,6 +37,9 @@ Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) - Passwords, Cook
 
 📸Screenshot(s)
 ![Goliath stealer](https://github.com/user-attachments/assets/7d2fe964-448f-4481-89a3-a371def7bcc5)
+![image](https://github.com/user-attachments/assets/d88ab174-5672-4af9-8926-d05247956338)
+
+
 
 
 Telegram Session stealer
