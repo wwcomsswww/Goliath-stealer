@@ -85,10 +85,15 @@ More grabbers (VPN's, Gaming, Messengers)
 Keylogger
 IpLogger
 Add's to startup
+
 Discord bot to build within discord ($build <webhook_url>)
+
 Dynamic encryption
+
 Firefox stealer
+
 Chrome stealer
+
 Discord stealer
 
 ⚠️ 〢 Note
