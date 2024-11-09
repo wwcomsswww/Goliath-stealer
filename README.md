@@ -23,7 +23,8 @@ Lastly add a File Description, ProductName, LegalCopyright & OriginalFilename in
 
 ⚔Features
 
-Stealer
+☣⚡Stealer
+
 Discord Token
 
 Discord Info - Username, Phone number, Email, Billing, Nitro Status & Backup Codes
@@ -76,7 +77,9 @@ Validates a found discord token and then sends it to your discord webhook
 Sends all files to your discord webhook in beautiful embeds and a structured zip file
 
 Automatic obfuscation when building
+
 📋 Todo
+
 Exodus wallet injection (get the password whenever the user logs in the wallet)
 More grabbers (VPN's, Gaming, Messengers)
 Keylogger
