@@ -36,6 +36,8 @@ Grabs crypto wallets - 💸 Zcash 🚀 Armory 📀 Bytecoin 💵 Jaxx 💎 Exodu
 Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) - Passwords, Cookies, Autofill & History (Searches for specific keywords such as PayPal, Coinbase etc. in them)
 
 📸Screenshot(s)
+![Goliath stealer](https://github.com/user-attachments/assets/7d2fe964-448f-4481-89a3-a371def7bcc5)
+
 
 Telegram Session stealer
 
