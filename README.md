@@ -1,3 +1,4 @@
+   ☣GOLIATH⚔
 # Goliath-stealer
 This is the best discord stealer ever made
 
