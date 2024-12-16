@@ -1,1 +1,2 @@
-This is my malware and ransomware repo
+The-MALWARE-Repo
+A repository full of malware and ransomware samples.
